@@ -1,0 +1,11 @@
+C:\Users\alexnoid\source\repos\p_23\p_23\bin\Debug\p_23.exe.config
+C:\Users\alexnoid\source\repos\p_23\p_23\bin\Debug\p_23.exe
+C:\Users\alexnoid\source\repos\p_23\p_23\bin\Debug\p_23.pdb
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.Form1.resources
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.Properties.Resources.resources
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.csproj.GenerateResource.cache
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.csproj.CoreCompileInputs.cache
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.exe
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.pdb
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.csprojAssemblyReference.cache
+C:\Users\alexnoid\source\repos\p_23\p_23\obj\Debug\p_23.csproj.ResolveComReference.cache
