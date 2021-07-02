@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Электронный персональный наигатор социальных сетей</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Лента</string>
+    <string name="title_dashboard">Телеграм</string>
+    <string name="title_notifications">ВКонтакте</string>
+</resources>
